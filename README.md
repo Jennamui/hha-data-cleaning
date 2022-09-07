@@ -4,7 +4,7 @@ Data Cleanup
 
 1. Import packages
 
-2. Load in Schools_Learning_Modalities.csv dataset as dataframe
+2. Load in School_Learning_Modalities.csv dataset as dataframe
 
 3. Print the number of columns and rows
 
